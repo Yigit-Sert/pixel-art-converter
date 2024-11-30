@@ -58,7 +58,3 @@ To run this project in Google Colab, follow these steps:
 1. Open the notebook in Google Colab.
 2. Run the code and upload an image.
 3. View the pixel art image and download it.
-
-## License
-
-This project is licensed under the MIT License. For more details, please refer to the [License File](LICENSE).
